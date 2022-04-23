@@ -1,6 +1,6 @@
-<IMG border="0" align="bottom
-" height="218" width="600" alt="ekapadi logo" src="images/logo.png" vspace="50"
->
+
+<IMG border="0" align="bottom" height="218" width="600" alt="ekapadi logo" src="images/logo.png" vspace="50">
+
 <!-- ![ekapadi logo](images/logo.svg) -->
 
 ### Ekapadi LLC is the consulting platform of [Kort Travis, Ph.D.](https://ekapadi.github.io/docs/Kort_Travis__resume.pdf)
