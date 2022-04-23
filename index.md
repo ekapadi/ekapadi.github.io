@@ -1,5 +1,5 @@
 
-<IMG border="0" align="bottom" height="218" width="600" alt="ekapadi logo" src="images/logo.svg" vspace="50">
+<IMG border="0" align="bottom" height="218" width="600" alt="ekapadi logo" src="images/logo.png" vspace="50">
 
 <!-- ![ekapadi logo](images/logo.svg) -->
 
