@@ -1,6 +1,7 @@
-![ekapadi logo](logo.png)
+![ekapadi logo](images/logo.svg)
 
-### Ekapadi LLC is the consulting platform of Kort Travis, Ph.D.
+
+### Ekapadi LLC is the consulting platform of [Kort Travis, Ph.D.](docs/Kort_Travis__resume.pdf]
 
 
 ekapadi specializes in:
@@ -14,3 +15,4 @@ ekapadi specializes in:
 Ekapadi sponsored open-source projects:    https://github.com/ekapadi/dragonfly
 
 contact us:  info@ekapadi.com
+
