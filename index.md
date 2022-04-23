@@ -1,5 +1,5 @@
 
-<IMG border="0" align="bottom" height="218" width="600" alt="ekapadi logo" src="images/logo.png" vspace="50">
+<IMG border="0" align="bottom" height="218" width="600" alt="ekapadi logo" src="images/logo.svg" vspace="50">
 
 <!-- ![ekapadi logo](images/logo.svg) -->
 
@@ -8,12 +8,13 @@
 ekapadi specializes in:
 
   - computational physics and physical modeling in general
-    (emphasis on biomedical applications)
+    <br>(emphasis on biomedical applications)
   - next-generation man machine interface
   - underwater robotics and instrumentation.
 
 
-Ekapadi sponsored open-source projects:    https://github.com/ekapadi/dragonfly
+Ekapadi sponsored open-source projects:    [https://github.com/ekapadi/dragonfly](https://github.com/ekapadi/dragonfly)
 
-contact us:  info@ekapadi.com
+<!-- contact us:  info@ekapadi.com -->
+
 
