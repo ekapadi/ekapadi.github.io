@@ -15,6 +15,6 @@ ekapadi specializes in:
 
 Ekapadi sponsored open-source projects:    [https://github.com/ekapadi/dragonfly](https://github.com/ekapadi/dragonfly)
 
-<!-- contact us:  info@ekapadi.com -->
+contact us:  info@ekapadi.com
 
 
